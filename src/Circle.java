@@ -53,5 +53,6 @@ public String toString() {
            "Color: " + color + "\n" +
            "Area: " + findArea() + "\n" +
            "Circumference: " + findCircumference();
+        "Circumference: " 
 }
 }
